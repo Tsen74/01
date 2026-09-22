@@ -1,0 +1,17 @@
+main {
+width: 80%;
+margin: auto;
+background-color: rgb(60, 140, 174);
+padding: 20px;
+}
+
+h1 {
+text-align: center;
+color: rgb(107, 107, 232);
+}
+
+section {
+margin-top: 20px;
+padding: 10px;
+border-top: 2px solid rgb(41, 41, 63);
+}
